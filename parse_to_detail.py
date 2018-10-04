@@ -4,7 +4,7 @@ import os
 from urllib.request import urlopen
 
 
-for x in range(1,3):
+for x in range(1,4):
 	"""
 	Ambil 30 artikel pertama
 	"""
