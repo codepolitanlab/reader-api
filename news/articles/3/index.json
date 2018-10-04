@@ -1,0 +1,125 @@
+{
+    "code": 200,
+    "result": [
+        {
+            "id": "24905",
+            "slug": "mengenal-teknik-pengamanan-data-steganografi-5b3b1b32ee8c5",
+            "title": "Mengenal Teknik Pengamanan Data Steganografi",
+            "author_name": "Muhammad Budhiluhoer",
+            "author_image": "https://www.gravatar.com/avatar/385f7e6222e4b58aaf84ec2f9e6beedf?s=100",
+            "description": "Perkembangan komputer dan perangkat pendukung lainnya yang membuat data-data digital semakin banyak digunakan. Terdapat sejumlah faktor yang membuat data digital..",
+            "date": "03 Jul 2018",
+            "link": "http://www.codepolitan.com/mengenal-teknik-pengamanan-data-steganografi-5b3b1b32ee8c5",
+            "thumbnail": "https://static.cdn-cdpl.com/270x135/998b78e349061b4971c0a2b0e8d6be41/Cover-Artikel(STEGANOGRAFI).jpg",
+            "total_views": null
+        },
+        {
+            "id": "24902",
+            "slug": "dbs-live-more-society-developer-tematic-challenge-business-amp-finance-5b3adb07c0b49",
+            "title": "DBS Live More Society: Developer Tematic Challenge (Business &amp; Finance)",
+            "author_name": "Dicoding Indonesia",
+            "author_image": "https://www.gravatar.com/avatar/b75240e3e588f998e21c3c7284ca040d?s=100",
+            "description": "## Deskripsi\nPT Bank DBS Indonesia (DBS) percaya bahwa hidup tidak perlu menjadi rumit dengan urusan perbankan, namun sebaliknya –..",
+            "date": "03 Jul 2018",
+            "link": "http://www.codepolitan.com/dbs-live-more-society-developer-tematic-challenge-business-amp-finance-5b3adb07c0b49",
+            "thumbnail": "https://static.cdn-cdpl.com/270x135/2b9f4ed2c46d42f883ab3439e02cd503/DBS_Dev_Challenge.jpg",
+            "total_views": null
+        },
+        {
+            "id": "24881",
+            "slug": "teknologi-pemrograman-yang-perlu-dipelajari-di-tahun-2018-5b39d78db108d",
+            "title": "Teknologi Pemrogaman Yang Perlu Dipelajari di Tahun 2018",
+            "author_name": "Geeraldo Jose",
+            "author_image": "https://www.gravatar.com/avatar/fe3d7ccb86643b3375a2ba7f3490b52e?s=100",
+            "description": "Setiap detik penemuan terhadap teknologi baru pasti bertambah begitu pula dengan perkembangan teknologi dalam bidang programing. Jika zaman dahulu kita..",
+            "date": "03 Jul 2018",
+            "link": "http://www.codepolitan.com/teknologi-pemrograman-yang-perlu-dipelajari-di-tahun-2018-5b39d78db108d",
+            "thumbnail": "https://static.cdn-cdpl.com/270x135/d3cf87e0e00038b907551b1638c4a94a/teknologi_2018.jpg",
+            "total_views": null
+        },
+        {
+            "id": "24776",
+            "slug": "membangun-desktop-app-dengan-5-framework-javascript-5b39e0ec3c053",
+            "title": "Membangun Desktop App dengan 5 Framework Javascript",
+            "author_name": "Muhammad Budhiluhoer",
+            "author_image": "https://www.gravatar.com/avatar/385f7e6222e4b58aaf84ec2f9e6beedf?s=100",
+            "description": "Tidak bisa kita pungkiri bahwa Javascript memang bahasa terbaik saat ini, yang telah dibuktikan dengan keunggulan pada framework dan *library*-nya...",
+            "date": "02 Jul 2018",
+            "link": "http://www.codepolitan.com/membangun-desktop-app-dengan-5-framework-javascript-5b39e0ec3c053",
+            "thumbnail": "https://static.cdn-cdpl.com/270x135/2dd7d3ba70bcbe34f8b0d7242c773a78/js.png",
+            "total_views": null
+        },
+        {
+            "id": "24845",
+            "slug": "rekomendasi-framework-nodejs-5b38cb242af39",
+            "title": "Rekomendasi Framework NodeJs",
+            "author_name": "Geeraldo Jose",
+            "author_image": "https://www.gravatar.com/avatar/fe3d7ccb86643b3375a2ba7f3490b52e?s=100",
+            "description": "*Node.js* merupakan platfrom *server side*  yang bersifat *open source* yang artinya tersedia secara gratis. Terdapat banyak sekali *framework* untuk *Node.js*..",
+            "date": "02 Jul 2018",
+            "link": "http://www.codepolitan.com/rekomendasi-framework-nodejs-5b38cb242af39",
+            "thumbnail": "https://static.cdn-cdpl.com/270x135/998b78e349061b4971c0a2b0e8d6be41/nodejs-frameworks.png",
+            "total_views": null
+        },
+        {
+            "id": "24789",
+            "slug": "membaca-html-lewat-htmlagilitypack-5b33815a4e6ea",
+            "title": "Membaca HTML Lewat HtmlAgilityPack",
+            "author_name": "Soeleman",
+            "author_image": "https://www.gravatar.com/avatar/3ecea3be6095add20ad1ceec1e748fb2?s=100",
+            "description": "Parse HTML dengan _Regex_ adalah *task* yang sungguh menyiksa otak.\t\t\t\tApalagi kalau HTML yang kita *parse* kurang rapi dan kadang..",
+            "date": "02 Jul 2018",
+            "link": "http://www.codepolitan.com/membaca-html-lewat-htmlagilitypack-5b33815a4e6ea",
+            "thumbnail": "https://static.cdn-cdpl.com/270x135/ccf15cfcef568a0f548de6dd42022aaf/cp-net.png",
+            "total_views": null
+        },
+        {
+            "id": "24794",
+            "slug": "membuat-berkas-excel-dari-datatable-di-dot-net-core-5b334b626d6e3",
+            "title": "Membuat Berkas Excel dari DataTable di .NET Core",
+            "author_name": "Soeleman",
+            "author_image": "https://www.gravatar.com/avatar/3ecea3be6095add20ad1ceec1e748fb2?s=100",
+            "description": "Banyak pengguna yang suka sekali menyimpan data dalam file. Salah satunya dalam format __Excel__. Banyak keinginan dari pengguna agar data-tabulasi..",
+            "date": "30 Jun 2018",
+            "link": "http://www.codepolitan.com/membuat-berkas-excel-dari-datatable-di-dot-net-core-5b334b626d6e3",
+            "thumbnail": "https://static.cdn-cdpl.com/270x135/ccf15cfcef568a0f548de6dd42022aaf/cp-net.png",
+            "total_views": null
+        },
+        {
+            "id": "24832",
+            "slug": "github-permudah-pengelolaan-asset-game-dengan-extension-github-for-unity-10-5b345feaf24a0",
+            "title": "GitHub Permudah Pengelolaan Asset Game dengan Extension GitHub for Unity 1.0 ",
+            "author_name": "Takagi Fujimaru",
+            "author_image": "https://www.gravatar.com/avatar/618f00be25bf74295409068c33a7eb53?s=100",
+            "description": "Tahun lalu, tepatnya pada bulan Maret 2017, GitHub mengumumkan versi alpha dari _extension_ *GitHub for Unity*. Setelah merilis versi Beta..",
+            "date": "28 Jun 2018",
+            "link": "http://www.codepolitan.com/github-permudah-pengelolaan-asset-game-dengan-extension-github-for-unity-10-5b345feaf24a0",
+            "thumbnail": "https://static.cdn-cdpl.com/270x135/8b81700471e8917196897fec5d8e28e9/27409997-6070fa38-5699-11e7-9340-db0fa3802c3b.png",
+            "total_views": null
+        },
+        {
+            "id": "23814",
+            "slug": "ngrok-5b289135af2f1",
+            "title": "Ngrok",
+            "author_name": "Soeleman",
+            "author_image": "https://www.gravatar.com/avatar/3ecea3be6095add20ad1ceec1e748fb2?s=100",
+            "description": "_It works on my machine!_™ adalah motto developer ketika mengerjakan prototipe atau pekerjaannya.\nYang umumnya dapat berfungsi dengan sempurna, kalau..",
+            "date": "28 Jun 2018",
+            "link": "http://www.codepolitan.com/ngrok-5b289135af2f1",
+            "thumbnail": "https://static.cdn-cdpl.com/270x135/ccf15cfcef568a0f548de6dd42022aaf/cp-infosec.png",
+            "total_views": null
+        },
+        {
+            "id": "24816",
+            "slug": "menyelesaikan-masalah-emulator-android-studio-devkvm-device-permission-denied-di-linux-ubuntu-1804-5b3313937091f",
+            "title": "Menyelesaikan Masalah Emulator Android Studio  /dev/kvm device permission denied di Linux Ubuntu 18.04",
+            "author_name": "Lobot Hijau",
+            "author_image": "https://www.gravatar.com/avatar/dd48f866dc2231e780b4e77e29cab4fb?s=100",
+            "description": "Jika pembaca menggunakan Linux (Ubuntu atau yang lainnya) dalam menggunakan Android Studio, bisa jadi pembaca di awal menemukan masalah saat..",
+            "date": "27 Jun 2018",
+            "link": "http://www.codepolitan.com/menyelesaikan-masalah-emulator-android-studio-devkvm-device-permission-denied-di-linux-ubuntu-1804-5b3313937091f",
+            "thumbnail": "https://static.cdn-cdpl.com/270x135/25981d63e7c9907f4a4b519d745aa512/androidstudio1.jpg",
+            "total_views": null
+        }
+    ]
+}
